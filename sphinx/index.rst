@@ -3,12 +3,29 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Coviflex's documentation!
-====================================
+
+Guide d'utilisateur de Coviflex[Admin]
+========================================================================
+
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Sommaire
+
+
+   _file/Droits-missions
+   _file/Ajouter_un_collaborateur
+   _file/Ajouter_une_equipe
+   _file/Ajouter_un_espace
+   _file/Ecrire_un_billet_dinformation
+   _file/Parametrer_votre_domaine
+   _file/Suivi_des_demandes_dequipement
+   _file/statistiques
+
+
+
+
 
 
 
